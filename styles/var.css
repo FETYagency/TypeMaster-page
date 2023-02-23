@@ -1,0 +1,26 @@
+:root{
+    --CLR-HOT-orange:hsl(22, 89%, 52%);
+    --CLR-COLD-orange: hsl(22, 100%, 69%);
+    --CLR-HOT-blue: hsl(220, 50%, 17%);
+    --CLR-cold-blue:hsl(221, 23%, 58%);
+    --CLR-HOT-wheat: hsl(198, 28%, 93%);
+    --CLR-white: #fff;
+
+    --FF: 'Barlow', sans-serif;
+    font-size: 15px;
+    font-family: var(--FF);
+
+    --FS-HXL: 3.73rem;
+    --LH-HXL: 3.73rem;
+
+    --FS-HL: 2.13rem;
+    --LH-HL: 2.4rem;
+
+    --FS-HM: 1.6rem;
+    --LH-HM: 1.86rem;
+
+    --FS-B: 1.06rem;
+    --LH-B: 1.73rem;
+
+    --TT: uppercase;
+}
